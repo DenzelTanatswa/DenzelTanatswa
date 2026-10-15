@@ -1,74 +1,43 @@
+<div align="center">
+
 # Denzel Chidzikwe
-### BSc IT Graduate | Data Analytics & Business Intelligence
+**DATA ANALYTICS · BUSINESS INTELLIGENCE**
 
-Johannesburg, South Africa  
-[LinkedIn](https://www.linkedin.com/in/denzel-chidzikwe-0a6965288/)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/denzel-chidzikwe-0a6965288/)
 
-I use SQL, Python, Power BI, and Excel to turn data into clear
-insights, interactive dashboards, and practical business recommendations.
+</div>
 
-I hold a BSc in Information Technology, specializing in Big Data
-Analytics with a minor in Digital Marketing. My projects cover sales
-performance, employee attrition, and loan approval prediction.
+---
 
-**Seeking graduate and junior opportunities in Data Analytics,
-Business Intelligence, and Reporting.**
+I use SQL, Python, Power BI, and Excel to turn data into clear insights, interactive dashboards, and practical business recommendations.
 
-## Technical Skills
+I hold a BSc in Information Technology, specializing in Big Data Analytics with a minor in Digital Marketing.
 
-| Area | Tools & Techniques |
-|---|---|
-| Data Analysis | Python, Pandas, NumPy, Excel |
-| Databases | SQL, PostgreSQL, MySQL |
-| SQL Techniques | Joins, aggregations, CTEs, window functions |
-| Business Intelligence | Power BI, Power Query, DAX, KPI reporting |
-| Visualization | Matplotlib, Seaborn, Plotly |
-| Machine Learning | Scikit-learn, classification, model evaluation |
-| Tools | Jupyter Notebook, Streamlit, GitHub |
+---
 
-## Featured Projects
+<div align="center">
 
-### E-commerce Sales Dashboard
-Interactive Power BI dashboard analyzing 50,000 transactions to
-explore revenue trends, product performance, and payment preferences.
+### ANALYTICS TOOLKIT
 
-**Tools:** Power BI · Power Query · DAX  
-[View project](https://github.com/DenzelTanatswa/powerbi-ecommerce-sales-dashboard)
+![SQL](https://img.shields.io/badge/SQL-F59E0B?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
 
-### E-commerce SQL Analysis
-SQL analysis of customer segments, revenue, and product performance
-across 50,000 transactions.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Tools:** SQL · PostgreSQL  
-[View project](https://github.com/DenzelTanatswa/Ecommerce-SQL-Analysis)
+![Power Query](https://img.shields.io/badge/Power_Query-008272?style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-8B5CF6?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-### HR Employee Attrition Analysis
-Analysis of 1,470 employee records to investigate turnover patterns
-across departments, job roles, and compensation groups.
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**Tools:** PostgreSQL · CTEs · Window Functions  
-[View project](https://github.com/DenzelTanatswa/HR-Employee-Attrition-Analysis-using-PostgreSQL)
-
-### Loan Approval Prediction System
-An end-to-end portfolio project covering exploratory analysis,
-classification models, a Streamlit prediction app, and a Power BI
-dashboard using 4,269 loan applications.
-
-**Tools:** Python · Scikit-learn · Streamlit · Power BI  
-[View project](https://github.com/DenzelTanatswa/loan-approval-prediction-system)
-
-### E-commerce Python Analysis
-Data cleaning, feature engineering, and visual exploration of
-customer behavior and sales trends.
-
-**Tools:** Python · Pandas · Matplotlib · Seaborn  
-[View project](https://github.com/DenzelTanatswa/python-ecommerce-data-analysis)
-
-*These portfolio projects use practice datasets.*
-
-## Let's Connect
-
-I welcome graduate opportunities, junior analyst roles, and
-collaboration on data analytics projects.
-
-[Connect on LinkedIn](https://www.linkedin.com/in/denzel-chidzikwe-0a6965288/)
+</div>
